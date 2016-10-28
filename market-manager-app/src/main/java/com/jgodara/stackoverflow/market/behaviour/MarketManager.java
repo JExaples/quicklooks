@@ -84,8 +84,4 @@ public class MarketManager {
 		this.target = target;
 	}
 
-	public static Logger getLogger() {
-		return logger;
-	}
-
 }
