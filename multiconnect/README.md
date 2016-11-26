@@ -22,4 +22,6 @@ A. GitHub has a feature named *issues*, just start one, I would look into it.
 
 Q. **I have something awesome to share, can I contribute to it?**
 
-A. F Yea why not? This repo is meant for people to collaborate, contribute and share!
+A. F Yea why not? [This repo][1] is meant for people to collaborate, contribute and share!
+
+  [1]: https://github.com/JExaples
