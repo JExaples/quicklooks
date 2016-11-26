@@ -14,9 +14,9 @@ Run the class `com.jgodara.stackoverflow.multiconnect.startup.ServerStartup` to 
 
 Q. **Why using a thread to start up servers?**
 
-A. *Since the server starts to wait for the connectection when it starts up, that would prevent other servers from starting until a client joins it.**
+A. Since the server starts to wait for the connectection when it starts up, that would prevent other servers from starting until a client joins it.
 
-Q. **I have some questions, how can I ask?**
+Q. **I have some features to request and bugs to report. What can I do??**
 
 A. GitHub as a feature named *issues*, just start one, I would look into it.
 
