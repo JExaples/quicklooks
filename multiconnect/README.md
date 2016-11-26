@@ -18,7 +18,7 @@ A. Since the server starts to wait for the connectection when it starts up, that
 
 Q. **I have some features to request and bugs to report. What can I do??**
 
-A. GitHub as a feature named *issues*, just start one, I would look into it.
+A. GitHub has a feature named *issues*, just start one, I would look into it.
 
 Q. **I have something awesome to share, can I contribute to it?**
 
